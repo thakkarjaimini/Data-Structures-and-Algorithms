@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnTypsescript1hour", "LearnTypsescript1hour\LearnTypsescript1hour.csproj", "{B913E471-E645-46D8-B81F-D55598BC8598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDepo Program", "HomeDepo Program\HomeDepo Program.csproj", "{DDA3F989-E5C3-4AAB-A55C-A93359C6407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data structures and alogorithms", "Data structures and alogorithms\Data structures and alogorithms.csproj", "{C0D5F387-54B1-4524-BE28-78D0F6DEF1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackedlinkedList", "ConsoleApplication1\StackedlinkedList.csproj", "{51D938A2-D9DF-4382-95DF-E36958A40F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{8BA328F5-2039-4B26-A9EF-75A142BB9A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Identity", "Test Identity\Test Identity.csproj", "{4EA45FE6-09F1-4751-A0BE-760E6EBD2D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Auth", "Custom Auth\Custom Auth.csproj", "{50319D3B-875D-41D6-A01D-C768628CB433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC EF Web development help Part 2", "MVC EF Web development help Part 2\MVC EF Web development help Part 2.csproj", "{6ABF8422-CCFA-4B7C-9532-C41E25402B46}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Rangerwebsite", "..\..\WebSites\Rangerwebsite\", "{D6DE450E-4F50-476B-A9C5-37D9F84BE072}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56787"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Rangerwebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56787\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56787"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Rangerwebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56787\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56787"
+		SlnRelativePath = "..\..\WebSites\Rangerwebsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B913E471-E645-46D8-B81F-D55598BC8598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B913E471-E645-46D8-B81F-D55598BC8598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B913E471-E645-46D8-B81F-D55598BC8598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B913E471-E645-46D8-B81F-D55598BC8598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA3F989-E5C3-4AAB-A55C-A93359C6407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA3F989-E5C3-4AAB-A55C-A93359C6407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA3F989-E5C3-4AAB-A55C-A93359C6407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA3F989-E5C3-4AAB-A55C-A93359C6407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D5F387-54B1-4524-BE28-78D0F6DEF1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D5F387-54B1-4524-BE28-78D0F6DEF1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D5F387-54B1-4524-BE28-78D0F6DEF1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D5F387-54B1-4524-BE28-78D0F6DEF1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D938A2-D9DF-4382-95DF-E36958A40F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D938A2-D9DF-4382-95DF-E36958A40F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D938A2-D9DF-4382-95DF-E36958A40F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D938A2-D9DF-4382-95DF-E36958A40F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA328F5-2039-4B26-A9EF-75A142BB9A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA328F5-2039-4B26-A9EF-75A142BB9A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA328F5-2039-4B26-A9EF-75A142BB9A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA328F5-2039-4B26-A9EF-75A142BB9A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA45FE6-09F1-4751-A0BE-760E6EBD2D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA45FE6-09F1-4751-A0BE-760E6EBD2D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA45FE6-09F1-4751-A0BE-760E6EBD2D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA45FE6-09F1-4751-A0BE-760E6EBD2D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50319D3B-875D-41D6-A01D-C768628CB433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50319D3B-875D-41D6-A01D-C768628CB433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50319D3B-875D-41D6-A01D-C768628CB433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50319D3B-875D-41D6-A01D-C768628CB433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABF8422-CCFA-4B7C-9532-C41E25402B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABF8422-CCFA-4B7C-9532-C41E25402B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABF8422-CCFA-4B7C-9532-C41E25402B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABF8422-CCFA-4B7C-9532-C41E25402B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DE450E-4F50-476B-A9C5-37D9F84BE072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DE450E-4F50-476B-A9C5-37D9F84BE072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DE450E-4F50-476B-A9C5-37D9F84BE072}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DE450E-4F50-476B-A9C5-37D9F84BE072}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
